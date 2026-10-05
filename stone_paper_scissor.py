@@ -1,4 +1,5 @@
 # Wrote this code 2 yrs ago while learning tkinter and pygame it is not that good but okayish hope you like it; cant release the pygame version yet
+#got this idea while learning from CODE WITH HARRY 100 DAYS OF CODE
 import tkinter as tk
 import random
 
